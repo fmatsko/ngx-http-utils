@@ -1,0 +1,29 @@
+{
+  "name": "ngx-http-utils",
+  "version": "0.0.5",
+  "description": "Angular HttpClient wrapper service with set of decorators to perform HTTP requests",
+  "license": "MIT",
+  "homepage": "https://github.com/fmatsko/ngx-http-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmatsko/ngx-http-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fmatsko/ngx-http-utils/issues"
+  },
+  "keywords": [
+    "angular",
+    "http",
+    "rest",
+    "service",
+    "decorators",
+    "utils"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^12.0.1",
+    "@angular/core": "^12.0.1"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  }
+}
